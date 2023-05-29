@@ -33,18 +33,13 @@ Focused on building **Performant**, **Scalable**, and **Reliable** Web experienc
 
 🛠️ Git/Github | AWS CLI | Amazon Web Services | Cloudflare Pages | Postman | Fly.io | Google Colab
 
-### Personal Page
+### Exploring and Learning for the future
 
-🌐 [Your Personal Page](https://tusharreddy.com/)
+📚 DevOps with Docker | Redux | GraphQL | CI/CD with Github Actions
 
-### LinkedIn
+### Various Links:
 
+🌐 [My Personal Page](https://tusharreddy.com/)
 📎 [LinkedIn Profile](https://www.linkedin.com/in/tushar-reddy/)
-
-### Resume
-
-📄 [View Resume](https://tusharreddy.com/static/media/tushar-resume.a377a146b843afd64225.pdf)
-
-### Contact
-
+📄 [Resume](https://tusharreddy.com/static/media/tushar-resume.a377a146b843afd64225.pdf)
 ✉️ [Email Address](mailto:tusharreddy2023@gmail.com)
