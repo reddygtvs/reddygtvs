@@ -32,3 +32,19 @@ Focused on building **Performant**, **Scalable**, and **Reliable** Web experienc
 ### Developer Tools
 
 🛠️ Git/Github | AWS CLI | Amazon Web Services | Cloudflare Pages | Postman | Fly.io | Google Colab
+
+### Personal Page
+
+🌐 [Your Personal Page](https://tusharreddy.com/)
+
+### LinkedIn
+
+📎 [LinkedIn Profile](https://www.linkedin.com/in/tushar-reddy/)
+
+### Resume
+
+📄 [View Resume](https://tusharreddy.com/static/media/tushar-resume.a377a146b843afd64225.pdf)
+
+### Contact
+
+✉️ [Email Address](mailto:tusharreddy2023@gmail.com)
