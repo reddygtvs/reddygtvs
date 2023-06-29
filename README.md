@@ -1,9 +1,15 @@
 # About Me
 
+### Various Links:
+
+🌐 [My Personal Page](https://tusharreddy.com/)
+📎 [LinkedIn Profile](https://www.linkedin.com/in/tushar-reddy/)
+📄 [Resume](https://tusharreddy.com/static/media/tushar-resume.a377a146b843afd64225.pdf)
+✉️ [Email Address](mailto:tusharreddy2023@gmail.com)
+
 ### Education
 
 🎓 Incoming MS student at California State University, Chico | Fall 2023
-🔬 Specializing in systems
 
 ### Summary
 
@@ -21,10 +27,6 @@ Focused on building **Performant**, **Scalable**, and **Reliable** Web experienc
 🔧 Runtimes: Node.js
 ⚛️ React | Express | React-router | Material-UI | Mongoose | Jest | Cypress | Bootstrap
 
-#### Python-based
-
-🐍 Tensorflow | Flask | Keras | Numpy | Matplotlib | OpenCV
-
 #### Other Languages
 
 🔤 C/C++ | SQL (MySQL) | Java | MongoDB | HTML/CSS
@@ -36,10 +38,3 @@ Focused on building **Performant**, **Scalable**, and **Reliable** Web experienc
 ### Exploring and Learning for the future
 
 📚 DevOps with Docker | Redux | GraphQL | CI/CD with Github Actions
-
-### Various Links:
-
-🌐 [My Personal Page](https://tusharreddy.com/)
-📎 [LinkedIn Profile](https://www.linkedin.com/in/tushar-reddy/)
-📄 [Resume](https://tusharreddy.com/static/media/tushar-resume.a377a146b843afd64225.pdf)
-✉️ [Email Address](mailto:tusharreddy2023@gmail.com)
