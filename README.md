@@ -2,7 +2,13 @@
 
 ### Various Links:
 
-🌐 [My Personal Page](https://tusharreddy.com/) || 📎 [LinkedIn Profile](https://www.linkedin.com/in/tushar-reddy/) || 📄 [Resume](https://tusharreddy.com/static/media/tushar-resume.a377a146b843afd64225.pdf) || ✉️ [Email Address](mailto:tusharreddy2023@gmail.com)
+🌐 [My Personal Page](https://tusharreddy.com/)
+
+📎 [LinkedIn Profile](https://www.linkedin.com/in/tushar-reddy/)
+
+📄 [Resume](https://tusharreddy.com/static/media/tushar-resume.a377a146b843afd64225.pdf)
+
+✉️ [Email Address](mailto:tusharreddy2023@gmail.com)
 
 ### Education
 
