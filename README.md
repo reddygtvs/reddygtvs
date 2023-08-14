@@ -30,7 +30,7 @@ Focused on building **Performant**, **Scalable**, and **Reliable** Web experienc
 
 #### Other Languages
 
-🔤 C/C++ | SQL (MySQL) | Java | MongoDB | HTML/CSS
+🔤 C/C++ | SQL (MySQL) | Java | MongoDB | HTML/CSS | Python
 
 ### Developer Tools
 
