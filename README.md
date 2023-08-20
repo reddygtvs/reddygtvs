@@ -26,11 +26,11 @@ Focused on building **Performant**, **Scalable**, and **Reliable** Web experienc
 
 🔧 Runtimes: Node.js
 
-⚛️ React | Express | React-router | Material-UI | Mongoose | Jest | Cypress | Bootstrap
+⚛️ React | Express | React-router | Material-UI | Mongoose | Jest | Cypress | Bootstrap | Vite
 
-#### Other Languages
+#### Other Languages & Frameworks
 
-🔤 C/C++ | SQL (MySQL) | Java | MongoDB | HTML/CSS | Python
+🔤 Typescript | C/C++ | SQL (MySQL) | Java | MongoDB | HTML/CSS | Python | TailwindCSS
 
 ### Developer Tools
 
@@ -38,4 +38,4 @@ Focused on building **Performant**, **Scalable**, and **Reliable** Web experienc
 
 ### Exploring and Learning for the future
 
-📚 DevOps with Docker | Redux | GraphQL | CI/CD with Github Actions
+📚 DevOps w/ Docker | Redux | GraphQL | CI/CD | Golang
