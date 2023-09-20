@@ -9,7 +9,7 @@
 
 ### Education
 
-🎓 Incoming MS student at California State University, Chico | Fall 2023
+🎓 MS student at California State University, Chico | Fall 2025
 
 ### Summary
 
