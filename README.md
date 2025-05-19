@@ -4,7 +4,7 @@
 
 🌐 [My Personal Page](https://tusharreddy.com/) &nbsp; &nbsp; &nbsp;
 📎 [LinkedIn Profile](https://www.linkedin.com/in/tushar-reddy/) &nbsp; &nbsp; &nbsp;
-📄 [Technical Resume](https://tusharreddy.com/static/media/tushar-resume.a377a146b843afd64225.pdf) &nbsp; &nbsp; &nbsp;
+📄 [Technical Resume](https://tusharreddy.com/assets/tushar_resume_updated-dadce4d9.pdf) &nbsp; &nbsp; &nbsp;
 ✉️ [Email Address](mailto:tusharreddy2023@gmail.com)
 
 ### Education
