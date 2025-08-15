@@ -4,7 +4,7 @@
 
 🌐 [My Personal Page](https://tusharreddy.com/) &nbsp; &nbsp; &nbsp;
 📎 [LinkedIn Profile](https://www.linkedin.com/in/tushar-reddy/) &nbsp; &nbsp; &nbsp;
-📄 [Technical Resume](https://tusharreddy.com/assets/tushar_resume_updated-dadce4d9.pdf) &nbsp; &nbsp; &nbsp;
+📄 [Technical Resume](https://tusharreddy.com/tushar_resume.pdf) &nbsp; &nbsp; &nbsp;
 ✉️ [Email Address](mailto:tusharreddy2023@gmail.com)
 
 ### Education
@@ -13,29 +13,32 @@
 
 ### Summary
 
-Focused on building **Performant**, **Scalable**, and **Reliable** Web experiences.
+Software engineer focused on **GenAI** and **full-stack development**. I enjoy creating tools for designers and developers, thinking carefully about how interfaces look, feel, and behave. I build intelligent systems using different LLMs and their integration into modern web applications.
 
-### Seeking Summer 2024 intern positions in:
+Previously, I've worked as a frontend engineer, built full-stack applications, and worked on applied AI research on Large Language Models.
 
-🔍 Software Engineering
-🌐 Full Stack Web Development
+### Tech Stack & Experience
 
-### Frameworks & Libraries
+#### Core Technologies
 
-#### JavaScript-based
+⚛️ React | TypeScript | Node.js | Express | TailwindCSS | Vite
 
-🔧 Runtimes: Node.js
+#### AI & Data
 
-⚛️ React | Express | React-router | Material-UI | Mongoose | Jest | Cypress | Bootstrap | Vite
+🤖 Large Language Models | RAG Systems | Applied AI Research
 
-#### Other Languages & Frameworks
+#### Databases & Cloud
 
-🔤 Typescript | C/C++ | SQL (MySQL) | Java | MongoDB | HTML/CSS | Python | TailwindCSS
+🗄️ MongoDB | MySQL | AWS | Cloudflare Pages | Fly.io
 
-### Developer Tools
+#### Development Tools
 
-🛠️ Git/Github | AWS CLI | Amazon Web Services | Cloudflare Pages | Postman | Fly.io | Google Colab
+🛠️ Git/GitHub | Vitest | React Testing Library | Jest | Cypress | Postman
 
-### Exploring and Learning for the future
+### Recent Projects
 
-📚 DevOps w/ Docker | Redux | GraphQL | CI/CD | Golang
+🔍 **RAG System** - Built system for querying 118k Guardian articles  
+📊 **TypeAnalysis Tracker** - Performance analytics for TypeRacer data  
+📷 **Photography Portfolio** - Custom design showcasing visual work  
+🏗️ **Clerestory** - Architecture firm frontend with interactive carousels  
+💪 **Gym Generator** - Personalized 5/3/1 strength training planner
