@@ -5,17 +5,17 @@ When I'm not coding, I'm behind the camera doing photography or on the tennis co
 
 Previously, I worked as a frontend engineer and on applied AI research with Large Language Models.
 
-
+&nbsp;
 
 ### Links
 [Personal Website](https://tusharreddy.com/) • [LinkedIn](https://www.linkedin.com/in/tushar-reddy/) • [Resume](https://tusharreddy.com/tushar_resume.pdf) • [Email](mailto:tusharreddy2023@gmail.com)
 
-
+&nbsp;
 
 ### Education
 MS student at California State University, Chico | Fall 2025
 
-
+&nbsp;
 
 ### Tech Stack & Experience
 **Full-Stack Development:** JavaScript/TypeScript, Python, React, Next.js, Node.js, Express, Flask, TailwindCSS, Vite
@@ -24,7 +24,7 @@ MS student at California State University, Chico | Fall 2025
 
 **Infrastructure & DevOps:** AWS, Cloudflare, Fly.io, Docker, Git/GitHub, Jest, Vitest, React Testing Library, Cypress, Playwright
 
-
+&nbsp;
 
 ### Recent Projects
 **RAG System** — Built system for querying 118k Guardian articles
